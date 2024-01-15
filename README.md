@@ -1,5 +1,7 @@
 # Lưu Ý Khi Dùng Lò Vi Ba
 
+**[Quay về Trang chủ](https://khangshirokuma.github.io/)**
+
 1. Tuyệt đối không để vật có kim loại vào trong lò.
 
 2. Nên có nắp đậy (ví dụ như dĩa sành/sứ, nắp nhựa) để tránh việc đồ ăn nóng nổ văng dơ trong lò.  
